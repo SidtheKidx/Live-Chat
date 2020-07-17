@@ -22,6 +22,7 @@ npm run devStart
 
 
  On Visual studio->
+ 
  Launch the .HTML file for client side(Google chrome recommended)
  
  Copy the client-side URL
