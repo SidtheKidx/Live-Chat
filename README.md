@@ -18,12 +18,12 @@ To RUN on Visual Studio:-
   
 `npm run devStart`
 
- On Visual studio->
+ ## Visual studio 
  
- > Launch the .HTML file for client side(Google chrome recommended)
+ 1. Launch the .HTML file for client side(Google chrome recommended)
  
- > Copy the client-side URL
+ 2. Copy the client-side URL
  
- > Launch the server-side by adding '?' in the end of client-side URL  
+ 3. Launch the server-side by adding '?' in the end of client-side URL  
  
 
